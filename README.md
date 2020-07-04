@@ -11,4 +11,3 @@ Requirements:
 - Pipenv
 - Django Rest Framework
 - Redis, for caching and persisting chat state.
-- PostgreSQL 12
