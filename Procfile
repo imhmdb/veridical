@@ -1,0 +1,1 @@
+web: gunicorn veridical.wsgi:application --log-file -

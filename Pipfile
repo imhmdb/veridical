@@ -1,0 +1,25 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+django = "*"
+imagehash = "*"
+django-jsonfield = "*"
+djangorestframework = "*"
+psycopg2 = "*"
+psycopg2-binary = "*"
+gunicorn = "*"
+whitenoise = "*"
+dj-database-url = "*"
+pytelegrambotapi = "*"
+django-extensions = "*"
+redis = "*"
+twilio = "*"
+django-adminlte2 = "*"
+
+[requires]
+python_version = "3.8"
